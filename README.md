@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Estovan Niemand</h1>
 <h3 align="center">A passionate Web-developer from South Africa</h3>
-<img   align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://outlane.co/now/new-shot-programmer-animation/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tdg-colta&label=Profile%20views&color=0e75b6&style=flat" alt="tdg-colta" /> </p>
 
